@@ -1,0 +1,11 @@
+C:\Users\Gaurav Agrawal\source\repos\Scrapper\Scrapper\bin\Debug\Scrapper.exe.config
+C:\Users\Gaurav Agrawal\source\repos\Scrapper\Scrapper\bin\Debug\Scrapper.exe
+C:\Users\Gaurav Agrawal\source\repos\Scrapper\Scrapper\bin\Debug\Scrapper.pdb
+C:\Users\Gaurav Agrawal\source\repos\Scrapper\Scrapper\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Gaurav Agrawal\source\repos\Scrapper\Scrapper\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Gaurav Agrawal\source\repos\Scrapper\Scrapper\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Gaurav Agrawal\source\repos\Scrapper\Scrapper\obj\Debug\Scrapper.csprojAssemblyReference.cache
+C:\Users\Gaurav Agrawal\source\repos\Scrapper\Scrapper\obj\Debug\Scrapper.csproj.CoreCompileInputs.cache
+C:\Users\Gaurav Agrawal\source\repos\Scrapper\Scrapper\obj\Debug\Scrapper.csproj.CopyComplete
+C:\Users\Gaurav Agrawal\source\repos\Scrapper\Scrapper\obj\Debug\Scrapper.exe
+C:\Users\Gaurav Agrawal\source\repos\Scrapper\Scrapper\obj\Debug\Scrapper.pdb
